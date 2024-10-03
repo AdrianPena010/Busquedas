@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1726776713 source:c:\users\adrián\desktop\tareas sspedi\t5 colas estaticas\main.cpp
+	<iostream>
+	"colat5.h"
+
+1726774869 c:\users\adrián\desktop\tareas sspedi\t5 colas estaticas\include\colat5.h
+	<iostream>
+
+1726776173 source:c:\users\adrián\desktop\tareas sspedi\t5 colas estaticas\src\colat5.cpp
+	"colat5.h"
+
+1727987070 source:c:\users\adrián\desktop\tareasprog\tareas sspedi\t5 colas estaticas\main.cpp
+	<iostream>
+	"colat5.h"
+	<conio.h>
+
+1727987231 c:\users\adrián\desktop\tareasprog\tareas sspedi\t5 colas estaticas\include\colat5.h
+	<iostream>
+
+1727987451 source:c:\users\adrián\desktop\tareasprog\tareas sspedi\t5 colas estaticas\src\colat5.cpp
+	"colat5.h"
+	<conio.h>
+
+1727987070 source:c:\users\adrián\desktop\t6 colas estaticas\main.cpp
+	<iostream>
+	"colat5.h"
+	<conio.h>
+
+1727989777 c:\users\adrián\desktop\t6 colas estaticas\include\colat5.h
+	<iostream>
+
